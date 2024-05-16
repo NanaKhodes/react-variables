@@ -1,0 +1,5 @@
+// Declare a variable:
+const name = 'Gerdo';
+
+// Access your variable inside of a JSX expression:
+const greeting = <p>Hello, {name}!</p>;
